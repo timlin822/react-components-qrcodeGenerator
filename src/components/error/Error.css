@@ -1,0 +1,22 @@
+.message{
+    width: 80%;
+    margin: 0px auto 20px;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+    padding: 15px 30px;
+    position: relative;
+}
+.error{
+    background-color: #ff6562;
+}
+.close{
+    cursor: pointer;
+    font-size: 14px;
+    position: absolute;
+    top: 50%;
+    right: 12px;
+    transform: translateY(-50%);
+}
